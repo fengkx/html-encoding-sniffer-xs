@@ -2,3 +2,6 @@
 /npm-debug.log
 
 /lib/labels-to-names.json
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
